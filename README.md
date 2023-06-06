@@ -1,1 +1,1 @@
-My first readme updated
+echo My first readme
